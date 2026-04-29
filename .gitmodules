@@ -1,0 +1,18 @@
+[submodule "repos/build"]
+	path = repos/build
+	url = https://github.com/shipwright-io/build.git
+[submodule "repos/cli"]
+	path = repos/cli
+	url = https://github.com/shipwright-io/cli.git
+[submodule "repos/operator"]
+	path = repos/operator
+	url = https://github.com/shipwright-io/operator.git
+[submodule "repos/triggers"]
+	path = repos/triggers
+	url = https://github.com/shipwright-io/triggers.git
+[submodule "repos/website"]
+	path = repos/website
+	url = https://github.com/shipwright-io/website.git
+[submodule "repos/community"]
+	path = repos/community
+	url = https://github.com/shipwright-io/community.git
